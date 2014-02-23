@@ -1,7 +1,7 @@
 us-scraper
 ==========
 
-Uusi Suomi Scraper
+Uusi Suomi Scraper - raavi blogit readability.com:iin.
 
 ## usage
 
